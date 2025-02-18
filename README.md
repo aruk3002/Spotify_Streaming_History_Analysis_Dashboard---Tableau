@@ -27,7 +27,7 @@ This project is a **Tableau dashboard** that visualizes and analyzes **Spotify s
 
 
 ## 🔗 Live Dashboard
-[Click here to view the interactive dashboard](#) *https://public.tableau.com/views/Spotifycharts_17398105256740/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+[Click here to view the interactive dashboard](#) *(https://public.tableau.com/views/Spotifycharts_17398105256740/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ## 🚀 How to Use
 1. Download the repository.
